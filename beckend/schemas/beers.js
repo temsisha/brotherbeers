@@ -48,6 +48,12 @@ export default {
             description: 'New beer on tap!',
         },
         {
+            name: 'soldBeer',
+            type: 'boolean',
+            title: 'Sold Out!',
+            description: 'Sold Out!',
+        },
+        {
             name: 'publishedAt',
             type: 'datetime',
             title: 'Published At',
