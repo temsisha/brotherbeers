@@ -1,6 +1,6 @@
 import sanityClient from "@sanity/client";
 
 export default sanityClient({
-  projectId: "70ca0fz1", // find this at manage.sanity.io or in your sanity.json
+  projectId: "08e0hbbz", // find this at manage.sanity.io or in your sanity.json
   dataset: "production", // this is from those question during 'sanity init'
 });
