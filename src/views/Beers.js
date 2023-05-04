@@ -17,6 +17,7 @@ const Beers = () => {
             beerLowPrice,
             beerHighPrice,
             newBeer,
+	    soldBeer,
             publishedAt,
            }`
 			)
